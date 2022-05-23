@@ -208,5 +208,5 @@ const welcomeSet = (userId, _db) => {
     addWelcome,
     delWelcome,
     cekWelcome,
-    welcomeSetAntilink
+    welcomeSet
 }
