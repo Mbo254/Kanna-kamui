@@ -92,8 +92,8 @@ const connect = async () => {
     })
 
         // Welcome
-    killua.ev.on("group-participants.update", async (m) => {
-		Welcome(killua, m);
+    kanna.ev.on("group-participants.update", async (m) => {
+		Welcome(kanna, m);
 	});
 
     kanna.ev.on("messages.upsert", async (chatUpdate) => {
