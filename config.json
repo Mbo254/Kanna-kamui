@@ -1,0 +1,26 @@
+{
+  "APIs": {
+    "zenz": "https://zenzapis.xyz",
+    "apikey": "andaracantik"    //you can change this api  by your own api😀
+  },
+  "options": {
+    "autoRead": false,
+    "self": false,
+    "mute": false,
+    "limitCount": 10,
+    "limitGame": 20
+  },
+  "sessionName": {
+    "legacy": "/database/kamui-legacy.json",
+    "multi": "/database/kamui-multi.json"
+  },
+  "exif": {
+    "packname": "Dont Take/Steal🐦",
+    "author": "By NᴇᷠxᷱꪊSᗒsɪʀ⁩⚠︎"
+  },
+  "owner": [
+    "62812xxx"
+  ],
+  "timezone": "Asia/Kolkata",
+  "footer": "N3XU5-51R.(Instagram:-Z3NON)"
+}
