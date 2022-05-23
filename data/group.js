@@ -204,7 +204,7 @@ const welcomeSet = (userId, _db) => {
     cekOffline,
     addAntilink,
     delAntilink,
-    cekcekAntilink,
+    cekAntilink,
     addWelcome,
     delWelcome,
     cekWelcome,
