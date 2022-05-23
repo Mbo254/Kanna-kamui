@@ -1,0 +1,16 @@
+# modules
+node_modules
+
+# lock files
+*-lock.json
+yarn.lock
+
+# database
+database/db.json
+database/group.json
+database/kamui-legacy.json
+database/kamui-multi.json
+database/user.json
+
+# config file
+config.json
